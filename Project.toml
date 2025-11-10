@@ -1,6 +1,6 @@
 name = "tree_sitter_julia_jll"
 uuid = "52be201e-a5e9-5cfe-8bf2-2dc4b062171c"
-version = "0.23.1+0"
+version = "0.25.0+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
